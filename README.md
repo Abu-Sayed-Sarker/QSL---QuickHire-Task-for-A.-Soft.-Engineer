@@ -43,6 +43,7 @@ QuickHire uses a secure, role-based authentication system. To test the administr
 | Type              | Email Address        | Password    |
 | :---------------- | :------------------- | :---------- |
 | **Admin Account** | `abusayed@gmail.com` | `Pa$$w0rd!` |
+| **Demo Admin**    | `demo@quickhire.com` | `DemoAdmin123!` |
 
 > [!IMPORTANT]
 > Administrative features are protected. Only accounts with the `admin` role in the database can access the dashboard routes (`/admin`, `/admin/add-job`, etc.).
